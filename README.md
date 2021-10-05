@@ -1,5 +1,6 @@
-### Hi there 👋
+### README
 
+Languages used: HTML and CSS
 
 Repository:  as2135.github.io
-Sections: Home, Blog, Images, About
+Sections: Home, Blog, About, Images
